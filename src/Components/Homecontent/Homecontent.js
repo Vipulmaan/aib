@@ -10,15 +10,11 @@ import * as translationGUJ from '../../translations/gujarati.json';
 import * as translationMAR from '../../translations/marathi.json';
 
 import '../../util/css/app.css';
-import Brick from '../../util/assets1/mtb-clay-bricks.jpg';
-import Brick2 from '../../util/assets1/brick.png';
-import Back from '../../util/assets1/transparent.png';
 import Face1 from '../../util/assets1/president.jpg';
 import Face2 from '../../util/assets1/face2.jpg';
 import Face3 from '../../util/assets1/face3.png';
 import Logo from '../../util/assets1/brick-logo.png';
 import Location from '../../util/assets1/location.png';
-import Demoimage from '../../util/assets1/gallery_demo_image.jpg';
 import Twitter from '../../util/assets1/twitter.svg';
 import Facebook from '../../util/assets1/facebook.svg';
 import Homeslides from '../Homeslides/Homeslides';

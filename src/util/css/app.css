@@ -738,6 +738,11 @@ span:hover{
     min-height: 70vh;
 }
 
+.home_map{
+    width: 100vw;
+    height: 100vh;
+}
+
 
 
 @media only screen and (max-width: 1050px){
