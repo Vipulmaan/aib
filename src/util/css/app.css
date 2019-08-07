@@ -755,7 +755,7 @@ span:hover{
 .carousel-indicators li{
     width: 45px !important;
     height: 8px !important;
-    background: white;
+    background: white !important;
 }
 
 
