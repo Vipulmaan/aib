@@ -56,6 +56,7 @@ const Home = () => {
                     <Route exact path='/contactus' component={Contactus}/>
                     <Route exact path='/location' component={Googlemaps}/> 
                     <Route exact path={process.env.PUBLIC_URL + '/new'} component={Homecontent}/>
+                    <Route exact path={process.env.PUBLIC_URL + '/'} component={Homecontent}/>
                     <Route  component={Notfound}/>
                 </Switch>
                 </div>
