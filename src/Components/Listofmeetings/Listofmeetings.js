@@ -60,7 +60,7 @@ class Listofmeetings extends Component {
                         <h3 className="meeting_title fw8">{this.state.num.title}</h3>
                         <p className='meeting_description  fw5 red'><i>{this.state.num.description}</i></p>
                         <p className="meeting_detail fw7 mt4 tj "><i>{this.state.num.details}</i></p>
-                        <a href={this.state.num.url} target="_blank" > <p className='black w-100 tc fw6 pa4 ba b--grey shadow-4 bg-lemonchiffon' >Open </p> </a>
+                        <a href={this.state.num.url} target="_blank" > <p className='black w-100 tc fw6 pa4 ba b--grey shadow-4 bg-lemonchiffon' >AGENDA (Click to open) </p> </a>
                     </div>
                 :
                 <div></div>
