@@ -27,8 +27,8 @@ const Listofmembers = () => {
                     <p className='member_name fw7'>Patron</p>
                 </div>
                 <div className="member bb bw1 b--gray shadow-4 br2">
-                    <p className='member_name red fw6'>SH. ANANT NATH SINGH</p>
-                    <p className='member_name fw7'>President</p>
+                    <p className='member_name red fw6'>SH. KULDEEP KUMAR KHANDUJA</p>
+                    <p className='member_name fw7'>Patron</p>
                     <p className='member_name'></p>
                 </div>
                 <div className="member bb bw1 b--gray shadow-4 br2">
@@ -68,7 +68,7 @@ const Listofmembers = () => {
                         <td className='member_name'>Tamil Nadu</td>
                     </tr>
                     <tr className=" b--gray shadow-5">
-                        <td className='member_name'>SH. Sanjeev Chawdhary</td>
+                        <td className='member_name'>SH. Sanjeev Chaudhary</td>
                         <td className='member_name'>Secretary of Legal Cell</td>
                         <td className='member_name'>Uttar Pradesh</td>
                     </tr>

@@ -3,7 +3,17 @@
     src:url("../fonts/AvenirNext/AvenirNextLTPro-Regular.otf");
 }
 ::-webkit-scrollbar { 
-    display: none; 
+    display: block;
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    background: lemonchiffon;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background: black; 
+    border-radius: 10px;
+    
 }
 
 #bg1{
@@ -741,6 +751,11 @@ span:hover{
 .home_map{
     width: 100vw;
     height: 100vh;
+}
+.carousel-indicators li{
+    width: 45px !important;
+    height: 8px !important;
+    background: white;
 }
 
 
