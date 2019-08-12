@@ -18,14 +18,16 @@ import Logo from '../../util/assets1/brick-logo.png'
 import Brick from '../../util/assets1/mtb-clay-bricks.jpg';
 import Back from '../../util/assets1/transparent.png';
 import Languagenav from '../Languagenav/Languagenav';
-import News from '../../util/articles/article1.pdf';
-import Application_form from '../../util/articles/application_form.pdf';
+// import News from '../../util/articles/article1.pdf';
+// import Application_form from '../../util/articles/application_form.pdf';
 
 
 
 
 const Header = (props) => {
+
     return(
+
         <MyContext.Consumer>
             {(context)=>(
                 <React.Fragment>

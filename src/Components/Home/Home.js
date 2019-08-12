@@ -1,5 +1,4 @@
 import React from 'react';
-import Tachyons from 'tachyons';
 import { Route , Switch} from "react-router-dom";
 import { MyContext } from '../../context';
 import BackgroundSlider from 'react-background-slider';

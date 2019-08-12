@@ -15,9 +15,9 @@ class Languagenav extends Component {
   render() {
     return (
         <div className='languagenav_div' >
-            <div className="dropdownnew   b--white ">
+            <div className="dropdownnew   b--white " >
                     <button className="red f6 language_button  fw6  grow">Language</button>
-                    <div className="dropdown_contentnew b--white ">
+                    <div className="languagenav_dropdown_contentnew b--white " >
                         <a
                             className="pointer grow dim link mt1 optionnew"
                             onClick={this.props.context.changeLanguage}

@@ -13,9 +13,9 @@ import Brickcalculator from './Components/Brickcalculator/Brickcalculator';
 
 class App extends Component {
 
-  
+    
     render(){
-
+        
 
       // const store = configureStore({ history });
       return (
