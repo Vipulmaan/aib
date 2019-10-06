@@ -200,12 +200,16 @@ class Contactus extends Component {
                                             <div className="contact_details  b--black">
                                                 <p className=' contact_header fw6 red'>{translationEN.home_content.header}</p>
                                                 <p className='contact_address  fw6'>
-                                                    Zone 6A, 3rd Floor, Indian Habitat Centre<br/>
-                                                    Lodhi Road, New Delhi, India<br/>
+                                                    Zone 6A, 3rd Floor, India Habitat Centre<br/>
+                                                    Lodhi Road, New Delhi-110003, India<br/>
                                                     Phone:- 011-24641853, 41504740<br/>
                                                     Contact Person:-<br/>
                                                     Sh. R. K. Verma<br/>
                                                     Email: aibtmf@rediffmail.com</p>
+                                                <br/>
+                                                <p className=' contact_header fw6 red'>
+                                                    Bank Name : State Bank of India, Lodhi Road
+                                                </p>
                                                 <p className=' contact_header fw6 red'>
                                                     Account Number : 52142908661
                                                 </p>
