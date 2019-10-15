@@ -18,7 +18,7 @@ class Listofexecutives extends Component {
                     <p className='pl4 executive_state b-- shadow-4 br3 bg-gray white'>{executive.FIELD7}</p>
                     <ul className='executive_list ba b--white br3 shadow-3 pt2 pb2 w-90 ml4'>
                         <li className="executive_text fw7"><span>Name : </span>{executive.FIELD1}</li>
-                        <li className=" executive_text fw4 green" ><span className='executive_text fw7'>Designation : </span>{executive.FIELD2}</li>
+                        <li className=" executive_text fw4 green" ><span className='executive_text fw7'></span>{executive.FIELD2}</li>
                         <li className='executive_text'><span className="executive_text fw7">Contact : </span>{executive.FIELD3}</li>
                         <ul className='executive_list'>
                             <ul className='executive_list'>

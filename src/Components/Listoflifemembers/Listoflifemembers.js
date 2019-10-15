@@ -69,7 +69,7 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1T7cJ3V6qdzxzCmfNzA2C-7yylInkQf4_" target="_blank">
+                        <a href="https://drive.google.com/open?id=12l2kmaufhDgpODPnns_7NmaV9Xqn-Len" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
@@ -112,6 +112,20 @@ export default function Listoflofemembers() {
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
                         <a href="https://drive.google.com/open?id=1tp3F5iiQdQljUqhAG187UIF_cbLhxCsl" target="_blank">
+                            <p className="black">PDF</p>
+                        </a>
+                    </div>
+                </AccordionItemPanel>
+            </AccordionItem>
+            <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                        NEW LIFE MEMBERS OF GUJARAT
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
+                        <a href="https://drive.google.com/open?id=1Mq8dRkt0r1B0Rgt4aSslM2PuhMm95paO" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
@@ -294,7 +308,7 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1zAC2HsrRTuIrVChxVRqkdUl4YPF1GO_W" target="_blank">
+                        <a href="https://drive.google.com/open?id=1VG_nz8QCds9YKSJMq48qKYtS6ASj8yU6" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
@@ -523,7 +537,21 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1HsB2HGyD2trNC3sO85fTBX1OVIW1qYkI" target="_blank">
+                        <a href="https://drive.google.com/open?id=16tseMrnUkX2lBFqg5Kq8463pwdUE3FI7" target="_blank">
+                            <p className="black">PDF</p>
+                        </a>
+                    </div>
+                </AccordionItemPanel>
+            </AccordionItem>
+            <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                        ELECTED MEMBERS OF TAMIL NADU
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
+                        <a href="https://drive.google.com/open?id=1DPGgA_FIDevTPVyTwbdw53XbIHkeDZPC" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
@@ -572,7 +600,7 @@ export default function Listoflofemembers() {
                         </a>
                     </div>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1Ke7oTiG2LYKt1HGxxGUR8YRQGHAPwkA0" target="_blank">
+                        <a href="https://drive.google.com/open?id=1dOnDunBXgpuj11c7Ld-Hwer50f925syh" target="_blank">
                             <p className="black">BAGHPAT</p>
                         </a>
                     </div>
@@ -893,6 +921,20 @@ export default function Listoflofemembers() {
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
                         <a href="https://drive.google.com/open?id=1JKviVYejtFo-P0Sa6wzjtmyRMvtyAUOP" target="_blank">
                             <p className="black">ROORKEE</p>
+                        </a>
+                    </div>
+                </AccordionItemPanel>
+            </AccordionItem>
+            <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                        TOTAL NUMBER OF KILNS REGISTERED
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
+                        <a href="https://drive.google.com/open?id=1pdLKMbKRmYDUxO8iuKiWVN6xoJAZmYX8" target="_blank">
+                            <p className="black">PDF</p>
                         </a>
                     </div>
                 </AccordionItemPanel>
