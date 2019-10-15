@@ -14,7 +14,7 @@ class Listofexecutives extends Component {
 
         const executive_array = exec.executives.map((executive, i) =>{
             return (
-                <div>
+                <div >
                     <p className='pl4 executive_state b-- shadow-4 br3 bg-gray white'>{executive.FIELD7}</p>
                     <ul className='executive_list ba b--white br3 shadow-3 pt2 pb2 w-90 ml4'>
                         <li className="executive_text fw7"><span>Name : </span>{executive.FIELD1}</li>

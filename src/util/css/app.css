@@ -712,9 +712,12 @@ span:hover{
     font-weight: 600;
 } */
 
+
+
 .executive_list{
     font-family: AvenirNext;
     list-style: none;
+    width: 90%;
 
 }
 
