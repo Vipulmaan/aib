@@ -16,7 +16,7 @@ import * as translationMAR from '../../translations/marathi.json';
 const Listofmembers = () => {
     return(
         <div className='list_of_members pa2'>
-            <p className="center list_of_members_header fw6">List of Management Mommittee</p>
+            <p className="center list_of_members_header fw6">List of Management Committee</p>
             <div className='members mt2 shadow-4'>
                 <div className="member bb bw1 b--gray  shadow-4 br2">
                     <p className='member_name red fw6'>SH. SURENDER PRATAP </p>
