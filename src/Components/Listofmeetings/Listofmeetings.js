@@ -78,7 +78,7 @@ class Listofmeetings extends Component {
                 <div className="meeting_box_combine  b--black" >
                     <div className="meeting_list_box bt bb bw1 b--gray br3 shadow-5">
                         <h3 className="meeting_list_header f3 fw8 ba b--gray bw1 shadow-2 br3 pa2 tc bg-white ">Meetings</h3>
-                        {meeting_array}
+                        {meeting_array.reverse()}
                     </div>
                     {data}  
                 </div>
