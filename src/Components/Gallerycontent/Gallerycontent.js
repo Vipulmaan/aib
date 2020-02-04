@@ -110,7 +110,7 @@ class Gallerycontent extends Component {
                 <p className=' fw6 list_of_members_header tc b--black'>Gallery</p>
                 <div className='gallery_combine_div'>
                     <div className="gallery_list_div b--black ">
-                        {gallery_list}           
+                        {gallery_list.reverse()}           
                     </div>
                     <div className='gallery_slides ba b--black '>
                         <Galleryslides images={data} />
