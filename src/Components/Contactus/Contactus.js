@@ -54,10 +54,13 @@ class Contactus extends Component {
                                                     {translationHIN.home_content.address_line3}<br/>
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
+                                                    बैंक शाखा: इंडिया हैबिटेट सेंटर, लोधी रोड, नई दिल्ली -110003
+                                                </p>
+                                                <p className=' contact_header fw6 red'>
                                                     {translationHIN.contact_us.account_number} : 52142908661
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
-                                                    {translationHIN.contact_us.ifsc} : SBIN0020511
+                                                    {translationHIN.contact_us.ifsc} : SBIN0061720
                                                 </p>
                                             </div>
                                         </div>
@@ -91,10 +94,13 @@ class Contactus extends Component {
                                                     {translationGUJ.home_content.address_line3}<br/>
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
+                                                    બેંક શાખા: ભારત હેબિટેટ સેન્ટર, લોધી રોડ, નવી દિલ્હી -110003
+                                                </p>
+                                                <p className=' contact_header fw6 red'>
                                                     {translationGUJ.contact_us.account_number} : 52142908661
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
-                                                    {translationGUJ.contact_us.ifsc} : SBIN0020511
+                                                    {translationGUJ.contact_us.ifsc} : SBIN0061720
                                                 </p>
                                             </div>
                                         </div>
@@ -128,10 +134,13 @@ class Contactus extends Component {
                                                     {translationMAR.home_content.address_line3}<br/>
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
+                                                    बँक शाखाः भारत हैबिटाट केंद्र, लोधी रोड, नवी दिल्ली -110003
+                                                </p>
+                                                <p className=' contact_header fw6 red'>
                                                     {translationMAR.contact_us.account_number} : 52142908661
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
-                                                    {translationMAR.contact_us.ifsc} : SBIN0020511
+                                                    {translationMAR.contact_us.ifsc} : SBIN0061720
                                                 </p>
                                             </div>
                                         </div>
@@ -165,10 +174,13 @@ class Contactus extends Component {
                                                     {translationPUN.home_content.address_line3}<br/>
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
+                                                    ਬੈਂਕ ਬ੍ਰਾਂਚ: ਭਾਰਤ ਹੈਬੀਟੈਟ ਸੈਂਟਰ, ਲੋਧੀ ਰੋਡ, ਨਵੀਂ ਦਿੱਲੀ -110003
+                                                </p>
+                                                <p className=' contact_header fw6 red'>
                                                     {translationPUN.contact_us.account_number} : 52142908661
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
-                                                    {translationPUN.contact_us.ifsc} : SBIN0020511
+                                                    {translationPUN.contact_us.ifsc} : SBIN0061720
                                                 </p>
                                             </div>
                                         </div>
@@ -211,10 +223,13 @@ class Contactus extends Component {
                                                     Bank Name : State Bank of India, Lodhi Road
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
+                                                    Bank Branch : INDIA HABITAT CENTER, Lodhi Road,New Delhi-110003
+                                                </p>
+                                                <p className=' contact_header fw6 red'>
                                                     Account Number : 52142908661
                                                 </p>
                                                 <p className=' contact_header fw6 red'>
-                                                    IFSC Code : SBIN0020511
+                                                    IFSC Code : SBIN0061720
                                                 </p>
                                             </div>
                                         </div>
