@@ -55,8 +55,15 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1LR-SzGsS2RzI_GBjReS-gQeboDJT2rw-" target="_blank">
+                        <a href="https://drive.google.com/file/d/1KdJFGuW7utNuQIsascYK0M2oOtexrkPO/view?usp=sharing" target="_blank">
                             <p className="black">PDF</p>
+                        </a>
+                    </div>
+                </AccordionItemPanel>
+                <AccordionItemPanel>
+                    <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
+                        <a href="https://drive.google.com/file/d/1qbkRziOdpeDhwztTuQn6PTnPh9YQ5m48/view?usp=sharing" target="_blank">
+                            <p className="black">ASANSOL</p>
                         </a>
                     </div>
                 </AccordionItemPanel>
@@ -111,7 +118,7 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1tp3F5iiQdQljUqhAG187UIF_cbLhxCsl" target="_blank">
+                        <a href="https://drive.google.com/file/d/1_WzyKTbMXeU_QXsq6gCNxX5d-PHH0aZz/view?usp=sharing" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
@@ -880,7 +887,7 @@ export default function Listoflofemembers() {
                         </a>
                     </div>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1frip4wt5lQGNovXEGKr6Tk6vafetfYr0" target="_blank">
+                        <a href="https://drive.google.com/file/d/1M2jMQcT6jFQqQzN-lqYcM8DHNiL_1OiJ/view?usp=sharing" target="_blank">
                             <p className="black">UNNAO</p>
                         </a>
                     </div>
