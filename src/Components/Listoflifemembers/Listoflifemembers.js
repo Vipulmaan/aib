@@ -940,7 +940,7 @@ export default function Listoflofemembers() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=0B4-JqHyRbRfPOG85aExhMG44QUxJWS0xVGRfWnRJa2gwU180" target="_blank">
+                        <a href="https://drive.google.com/file/d/1jipDLMBXBiCpgB9xbh0NSSEKeDcPnCDm/view?usp=sharing" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>

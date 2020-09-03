@@ -44,7 +44,7 @@ class Headernav extends Component {
                                                         </Link>
                                                     </NavDropdown>
                                                     <NavDropdown title={translationHIN.header.nav.option3} id="collasible-nav-dropdown">
-                                                            <a target="_blank" href="https://drive.google.com/open?id=19wWPzWtYH8hrLUvVlJtZhJZ87CSbmMQ3">
+                                                            <a target="_blank" href="https://drive.google.com/file/d/1MfnvLV60al_8tiZF2wL5aaFG79bSIXGp/view?usp=sharing">
                                                                <p  className="menuitem">{translationHIN.header.nav.suboption3}</p>
                                                             </a>
                                                         <Link to="/lifemembers">
@@ -99,7 +99,7 @@ class Headernav extends Component {
                                                         </Link>
                                                     </NavDropdown>
                                                     <NavDropdown title={translationPUN.header.nav.option3} id="collasible-nav-dropdown">
-                                                            <a target="_blank" href="https://drive.google.com/open?id=19wWPzWtYH8hrLUvVlJtZhJZ87CSbmMQ3">
+                                                            <a target="_blank" href="https://drive.google.com/file/d/1MfnvLV60al_8tiZF2wL5aaFG79bSIXGp/view?usp=sharing">
                                                                <p  className="menuitem">{translationPUN.header.nav.suboption3}</p>
                                                             </a>
                                                         <Link to="/lifemembers">
@@ -154,7 +154,7 @@ class Headernav extends Component {
                                                         </Link>
                                                     </NavDropdown>
                                                     <NavDropdown title={translationMAR.header.nav.option3} id="collasible-nav-dropdown">
-                                                            <a target="_blank" href="https://drive.google.com/open?id=19wWPzWtYH8hrLUvVlJtZhJZ87CSbmMQ3">
+                                                            <a target="_blank" href="https://drive.google.com/file/d/1MfnvLV60al_8tiZF2wL5aaFG79bSIXGp/view?usp=sharing">
                                                                <p  className="menuitem">{translationMAR.header.nav.suboption3}</p>
                                                             </a>
                                                         <Link to="/lifemembers">
@@ -209,7 +209,7 @@ class Headernav extends Component {
                                                     </Link>
                                                 </NavDropdown>
                                                 <NavDropdown title={translationGUJ.header.nav.option3} id="collasible-nav-dropdown">
-                                                    <a target="_blank" href="https://drive.google.com/open?id=19wWPzWtYH8hrLUvVlJtZhJZ87CSbmMQ3">
+                                                    <a target="_blank" href="https://drive.google.com/file/d/1MfnvLV60al_8tiZF2wL5aaFG79bSIXGp/view?usp=sharing">
                                                         <p  className="menuitem">{translationGUJ.header.nav.suboption3}</p>
                                                     </a>
                                                     <Link to="/lifemembers">
@@ -264,7 +264,7 @@ class Headernav extends Component {
                                                         </Link>
                                                     </NavDropdown>
                                                     <NavDropdown title={translationEN.header.nav.option3} id="collasible-nav-dropdown">
-                                                        <a target="_blank" href="https://drive.google.com/open?id=19wWPzWtYH8hrLUvVlJtZhJZ87CSbmMQ3">
+                                                        <a target="_blank" href="https://drive.google.com/file/d/1MfnvLV60al_8tiZF2wL5aaFG79bSIXGp/view?usp=sharing">
                                                             <p  className="menuitem">{translationEN.header.nav.suboption3}</p>
                                                         </a>
                                                         <Link to="/lifemembers">
