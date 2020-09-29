@@ -68,7 +68,7 @@ const Header = (props) => {
                                         <div className="dropdownnew  b--white ">
                                             <button className="white  fw6  ">{translationHIN.header.nav.option3}</button>
                                             <div className="dropdown_contentnew  b--white ">
-                                                <a href='https://drive.google.com/open?id=1VHmZSHxMl_vJ-tk8SxIQRGbtlyfj24WP' target="_blank">
+                                                <a href='https://drive.google.com/file/d/1BPCIDVEDIqngjHT-E0pLCaMC480V8UbN/view?usp=sharing' target="_blank">
                                                     <p className="pointer dim link mt1 center optionnew">{translationHIN.header.nav.suboption3}</p> 
                                                 </a>
                                                 <Link to='lifemembers' >
@@ -155,7 +155,7 @@ const Header = (props) => {
                                         <div className="dropdownnew  b--white ">
                                             <button className="white  fw6  grow">{translationPUN.header.nav.option3}</button>
                                             <div className="dropdown_contentnew  b--white ">
-                                                <a href='https://drive.google.com/open?id=1VHmZSHxMl_vJ-tk8SxIQRGbtlyfj24WP' target="_blank">
+                                                <a href='https://drive.google.com/file/d/1BPCIDVEDIqngjHT-E0pLCaMC480V8UbN/view?usp=sharing' target="_blank">
                                                     <p className="pointer dim link mt1 center optionnew">{translationPUN.header.nav.suboption3}</p> 
                                                 </a>
                                                 <Link to='lifemembers' >
@@ -242,7 +242,7 @@ const Header = (props) => {
                                         <div className="dropdownnew  b--white ">
                                             <button className="white  fw6  grow">{translationMAR.header.nav.option3}</button>
                                             <div className="dropdown_contentnew  b--white ">
-                                                <a href='https://drive.google.com/open?id=1VHmZSHxMl_vJ-tk8SxIQRGbtlyfj24WP' target="_blank">
+                                                <a href='https://drive.google.com/file/d/1BPCIDVEDIqngjHT-E0pLCaMC480V8UbN/view?usp=sharing' target="_blank">
                                                     <p className="pointer dim link mt1 center optionnew">{translationMAR.header.nav.suboption3}</p> 
                                                 </a>
                                                 <Link to='lifemembers' >
@@ -329,7 +329,7 @@ const Header = (props) => {
                                         <div className="dropdownnew  b--white ">
                                             <button className="white  fw6  grow">{translationGUJ.header.nav.option3}</button>
                                             <div className="dropdown_contentnew  b--white ">
-                                                <a href='https://drive.google.com/open?id=1VHmZSHxMl_vJ-tk8SxIQRGbtlyfj24WP' target="_blank">
+                                                <a href='https://drive.google.com/file/d/1BPCIDVEDIqngjHT-E0pLCaMC480V8UbN/view?usp=sharing' target="_blank">
                                                     <p className="pointer dim link mt1 center optionnew">{translationGUJ.header.nav.suboption3}</p> 
                                                 </a>
                                                 <Link to='lifemembers' >
@@ -416,7 +416,7 @@ const Header = (props) => {
                                         <div className="dropdownnew  b--white ">
                                             <button className="white  fw6  ">{translationEN.header.nav.option3}</button>
                                             <div className="dropdown_contentnew  b--white ">
-                                                <a href='https://drive.google.com/open?id=1VHmZSHxMl_vJ-tk8SxIQRGbtlyfj24WP' target="_blank">
+                                                <a href='https://drive.google.com/file/d/1BPCIDVEDIqngjHT-E0pLCaMC480V8UbN/view?usp=sharing' target="_blank">
                                                     <p className="pointer dim link mt1 center optionnew">{translationEN.header.nav.suboption3}</p> 
                                                 </a>
                                                 <Link to='lifemembers' >

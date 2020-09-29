@@ -123,16 +123,9 @@ export default function Listoflofemembers() {
                         </a>
                     </div>
                 </AccordionItemPanel>
-            </AccordionItem>
-            <AccordionItem>
-                <AccordionItemHeading>
-                    <AccordionItemButton>
-                        NEW LIFE MEMBERS OF GUJARAT
-                    </AccordionItemButton>
-                </AccordionItemHeading>
                 <AccordionItemPanel>
                     <div className='vendor_div bg-light-gray pa2 mb2 ba b--white br3 shadow-4'>
-                        <a href="https://drive.google.com/open?id=1Mq8dRkt0r1B0Rgt4aSslM2PuhMm95paO" target="_blank">
+                        <a href="https://drive.google.com/file/d/1Mq8dRkt0r1B0Rgt4aSslM2PuhMm95paO/view?usp=sharing" target="_blank">
                             <p className="black">PDF</p>
                         </a>
                     </div>
